@@ -1,17 +1,27 @@
+body{
+    background-color: rgb(20, 20, 20);
+}
+h2{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
 #T1{
     font-family: 'Cambria', Courier, monospace;
-    color: rgb(52, 50, 165);
-    background-color: rgb(300, 100, 100);
-   width: 300px;
+    color: rgb(0, 179, 250);
+    background-color: red;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #img2{
     border: solid rgb(202, 10, 10);
-width: 600px;
+width: 550px;
 height: 300px;
-
 }
 #ST1{
-    width: 300px;
-    border: solid blue;
+    width: 210px;
 }
