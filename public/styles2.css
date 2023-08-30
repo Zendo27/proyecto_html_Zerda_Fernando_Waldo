@@ -1,7 +1,14 @@
 body{
     background-color: rgb(20, 20, 20);
 }
+#T1{
+    font-family: 'Cambria', Courier, monospace;
+    color: rgb(0, 179, 250);
+    display: flex;
+    margin-left: 30px;
+}
 .img3 {
+    border-radius: 30px;
     border: solid red;
     width: 900px;
     height: 450px;
@@ -9,9 +16,39 @@ body{
 h1{
     color: red;
 }
+h2{
+    color: aliceblue;
+}
+.cabeza{
+    border-radius: 10px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Cambria', Courier, monospace;
+}
+.enlace1{
+    color: rgb(0, 0, 0);
+}
+.parrafos{
+    color: aliceblue;
+    font-family: 'Candara','Calibri','Cambiar';
+    font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.enl1{
+    margin-left: auto;
+    margin-right: 10px;
+}
+.enl2{
+    margin-right: 10px;
+}
 .contenedor{
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
 
 }
