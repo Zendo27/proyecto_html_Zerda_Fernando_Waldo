@@ -62,6 +62,13 @@ h2{
     align-items: center;
 
 }
+.star{
+    background-color: rgb(221, 11, 11);
+    border-radius: 50px;
+    border
+    width: 200px;
+    height: 100px;
+}
 .piePag{
     display: flex;
     justify-content: center;
