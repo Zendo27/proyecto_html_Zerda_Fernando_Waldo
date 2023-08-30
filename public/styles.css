@@ -11,7 +11,7 @@ h3{
     font-family: 'Cambria', Courier, monospace;
     color: rgb(0, 179, 250);
     display: flex;
-    margin-left: 30px;
+    margin-left: 32%;
 }
 
 #img2{
@@ -43,4 +43,22 @@ height: 300px;
 }
 .enl2{
     margin-right: 10px;
+}
+.barraBusqueda{
+    order: -1;
+    margin-left: 30px;
+}
+.lupa{
+    order: -1;
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+.piePag{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: rgb(3, 3, 59);
+    color: azure;
+    margin-top: 18%;
 }
