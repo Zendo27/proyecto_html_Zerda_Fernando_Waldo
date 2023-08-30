@@ -10,18 +10,37 @@ h3{
 #T1{
     font-family: 'Cambria', Courier, monospace;
     color: rgb(0, 179, 250);
-    background-color: red;
-    height: 80px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    margin-left: 30px;
 }
 
 #img2{
+    border-radius: 20px;
     border: solid rgb(202, 10, 10);
 width: 550px;
 height: 300px;
 }
 #ST1{
     width: 210px;
+}
+.cabeza{
+    border-radius: 10px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Cambria', Courier, monospace;
+    
+}
+.enlace1{
+    color: rgb(0, 0, 0);
+    
+}
+.enl1{
+    margin-left: auto;
+    margin-right: 10px;
+}
+.enl2{
+    margin-right: 10px;
 }
