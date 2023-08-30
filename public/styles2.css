@@ -7,7 +7,6 @@ body{
     display: flex;
     margin-left: 32%;
 }
-}
 .img3 {
     border-radius: 30px;
     border: solid red;
@@ -15,7 +14,7 @@ body{
     height: 450px;
 }
 h1{
-    color: red;
+    color: aliceblue;
 }
 h2{
     color: aliceblue;

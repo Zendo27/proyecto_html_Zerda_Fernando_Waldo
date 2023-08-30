@@ -33,9 +33,17 @@ height: 300px;
     font-family: 'Cambria', Courier, monospace;
     
 }
+.portada{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .enlace1{
     color: rgb(0, 0, 0);
     
+}
+.enlace2{
+    color: rgb(161, 159, 3);
 }
 .enl1{
     margin-left: auto;
@@ -60,5 +68,5 @@ height: 300px;
     justify-content: space-between;
     background-color: rgb(3, 3, 59);
     color: azure;
-    margin-top: 18%;
+    margin-top: 16%;
 }
